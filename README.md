@@ -1,2 +1,2 @@
 # vblake-learn-project
-This  i a project for learning git
+This is a project for learning git
